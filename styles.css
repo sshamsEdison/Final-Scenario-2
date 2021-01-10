@@ -1,0 +1,36 @@
+h1 {
+	background: -webkit-linear-gradient(#b22234, #ffffff , #3c3b6e);
+    text-align: center;
+}
+
+.center {
+	margin: auto;
+    width: 80%;
+}
+
+button {
+	
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 50px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.dem {
+	background-color: #3c3b6e;
+}
+
+.rep {
+	background-color: #b22234;
+}
+.msg {
+	text-align: center;
+}
+
+img {
+	width: 50%;
+    margin: auto;
+    display: block;
+}
